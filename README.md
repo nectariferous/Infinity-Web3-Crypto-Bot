@@ -1,8 +1,5 @@
-# Infinity-Web3-Crypto-Bot 🚀
-
 A Telegram bot and web application for engaging users in cryptocurrency and Web3 technologies.
 
-![Project Screenshot](screenshots/1.jpg)
 
 ## 🌟 Features
 
