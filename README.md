@@ -1,22 +1,14 @@
-# Infinity-Web3-Crypto-Bot 🚀
-
 <p align="center">
-  <img src="screenshots/1.jpg" alt="Project Screenshot" width="600">
+  <img src="https://img.shields.io/github/forks/nectariferous/Infinity-Web3-Crypto-Bot?style=flat-square&logo=github" alt="Forks">
+  <img src="https://img.shields.io/github/stars/nectariferous/Infinity-Web3-Crypto-Bot?style=flat-square&logo=github" alt="Stars">
+  <img src="https://img.shields.io/github/issues/nectariferous/Infinity-Web3-Crypto-Bot?style=flat-square&logo=github" alt="Issues">
+  <img src="https://img.shields.io/github/license/nectariferous/Infinity-Web3-Crypto-Bot?style=flat-square&logo=github" alt="License">
+  <img src="https://img.shields.io/github/last-commit/nectariferous/Infinity-Web3-Crypto-Bot?style=flat-square&logo=github" alt="Last Commit">
+  <img src="https://img.shields.io/github/commit-activity/m/nectariferous/Infinity-Web3-Crypto-Bot?style=flat-square&logo=github" alt="Commit Activity">
 </p>
 
 <p align="center">
-  <a href="https://github.com/nectariferous/Infinity-Web3-Crypto-Bot/network/members">
-    <img src="https://img.shields.io/github/forks/nectariferous/Infinity-Web3-Crypto-Bot?style=for-the-badge" alt="Forks">
-  </a>
-  <a href="https://github.com/nectariferous/Infinity-Web3-Crypto-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/nectariferous/Infinity-Web3-Crypto-Bot?style=for-the-badge" alt="Stars">
-  </a>
-  <a href="https://github.com/nectariferous/Infinity-Web3-Crypto-Bot/issues">
-    <img src="https://img.shields.io/github/issues/nectariferous/Infinity-Web3-Crypto-Bot?style=for-the-badge" alt="Issues">
-  </a>
-  <a href="https://github.com/nectariferous/Infinity-Web3-Crypto-Bot/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/nectariferous/Infinity-Web3-Crypto-Bot?style=for-the-badge" alt="License">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=nectariferous&repo=Infinity-Web3-Crypto-Bot&color=brightgreen&style=flat-square" alt="Repo Views">
 </p>
 
 A Telegram bot and web application for engaging users in cryptocurrency and Web3 technologies.
@@ -32,18 +24,22 @@ A Telegram bot and web application for engaging users in cryptocurrency and Web3
 
 ## 🛠️ Tech Stack
 
-- Backend: Node.js, Python
-- Database: MongoDB
-- Frontend: HTML, CSS, JavaScript
-- Telegram Bot API
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
 
 ## 📊 Project Stats
 
-<!-- GitHub Specific Stats -->
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/nectariferous/Infinity-Web3-Crypto-Bot)
-![GitHub last commit](https://img.shields.io/github/last-commit/nectariferous/Infinity-Web3-Crypto-Bot)
-![GitHub contributors](https://img.shields.io/github/contributors/nectariferous/Infinity-Web3-Crypto-Bot)
-![GitHub repo size](https://img.shields.io/github/repo-size/nectariferous/Infinity-Web3-Crypto-Bot)
+<p align="center">
+  <img src="https://img.shields.io/github/languages/count/nectariferous/Infinity-Web3-Crypto-Bot?style=for-the-badge&logo=github" alt="Languages">
+  <img src="https://img.shields.io/github/repo-size/nectariferous/Infinity-Web3-Crypto-Bot?style=for-the-badge&logo=github" alt="Repo Size">
+  <img src="https://img.shields.io/github/contributors/nectariferous/Infinity-Web3-Crypto-Bot?style=for-the-badge&logo=github" alt="Contributors">
+</p>
 
 ## 📁 Project Structure
 
@@ -60,21 +56,26 @@ Infinity-Web3-Crypto-Bot/
 ## 🚀 Quick Start
 
 1. Clone the repository:
-   ```
+   ```bash
    git clone https://github.com/nectariferous/Infinity-Web3-Crypto-Bot.git
+   cd Infinity-Web3-Crypto-Bot
    ```
 2. Install dependencies:
-   ```
+   ```bash
    npm install
    pip install -r requirements.txt
    ```
-3. Set up environment variables in `.env`
-4. Start the server:
+3. Set up environment variables:
+   ```bash
+   cp .env.example .env
+   # Edit .env with your configuration
    ```
-   node server.js
+4. Start the server:
+   ```bash
+   npm start
    ```
 5. Launch the bot:
-   ```
+   ```bash
    python bot.py
    ```
 
@@ -88,17 +89,17 @@ We welcome contributions! Please see our [Contribution Guidelines](CONTRIBUTING.
 
 ## 📸 Screenshots
 
-<table>
-  <tr>
-    <td><img src="screenshots/1.jpg" width="200"></td>
-    <td><img src="screenshots/2.jpg" width="200"></td>
-    <td><img src="screenshots/3.jpg" width="200"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="screenshots/1.jpg" width="250" alt="Screenshot 1">
+  <img src="screenshots/2.jpg" width="250" alt="Screenshot 2">
+  <img src="screenshots/3.jpg" width="250" alt="Screenshot 3">
+</p>
 
 ## 📈 Project Activity
 
-![Repo Activity](https://repobeats.axiom.co/api/embed/your-repobeats-hash-here.svg "Repobeats analytics image")
+<p align="center">
+  <img src="https://repobeats.axiom.co/api/embed/your-repobeats-hash-here.svg" alt="Repobeats analytics image" />
+</p>
 
 ## 💖 Support
 
@@ -106,8 +107,11 @@ If you find this project helpful:
 
 ```
 ETH: 0x3A06322e9F1124F6B2de8F343D4FDce4D1009869
-Telegram: https://t.me/nectariferous
 ```
+
+<a href="https://t.me/nectariferous">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
 
 ## 📜 License
 
